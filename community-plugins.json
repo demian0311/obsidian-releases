@@ -24022,5 +24022,12 @@
     "author": "kuboon",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Open prev/next note based on explorer sorting order",
     "repo": "kuboon/daily-nav"
+  },
+  {
+    "id": "dgmo",
+    "name": "Diagrammo Diagrams",
+    "author": "Diagrammo",
+    "description": "Render bar, line, pie, sequence, arc, timeline, C4, kanban, and other diagrams from plain-text dgmo code fences.",
+    "repo": "diagrammo/obsidian-dgmo"
   }
 ]
