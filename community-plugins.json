@@ -19652,7 +19652,7 @@
     "id": "dgmo",
     "name": "Diagrammo Diagrams",
     "author": "diagrammo",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. Render bar, line, pie, sequence, arc, timeline, C4, kanban, and other diagrams from plain-text dgmo code fences.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Render diagrams inline from plain-text dgmo code blocks — 40+ chart types including flowcharts, sequence, gantt, charts and mind maps, with live preview and themed palettes.",
     "repo": "diagrammo/obsidian-dgmo"
   },
   {
