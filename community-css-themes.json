@@ -3558,5 +3558,12 @@
     "repo": "jkvetina/obsidian-one-oracle-developer",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Diagrammo Slate",
+    "author": "Demian Neidetcher",
+    "repo": "demian0311/obsidian-slate",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
